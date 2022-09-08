@@ -115,5 +115,5 @@ If you want the bleeding edge version of this buildpack run:
 
 ```
 $ heroku buildpacks:remove jkutner/minecraft
-$ heroku buildpacks:add https://github.com/jkutner/heroku-buildpack-minecraft
+$ heroku buildpacks:add https://github.com/appuseh123/mincra
 ```
